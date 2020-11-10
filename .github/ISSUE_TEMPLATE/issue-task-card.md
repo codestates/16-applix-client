@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Issue/Task Card
+about: 프로젝트 이슈 및 태스크 카드 템플릿
 title: "[CHANGE] need this"
 labels: ''
 assignees: ''
