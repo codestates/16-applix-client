@@ -2,6 +2,7 @@
 
 # 🍎Applix
 #### Team16 : AppleJujube - Applix-client
+<img src="https://user-images.githubusercontent.com/66121666/99513113-a187d400-29cd-11eb-9f87-653f6025b377.gif" width="650" height="620">
 
 # 📂 Stack
 ## Front
