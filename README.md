@@ -22,6 +22,9 @@
 
 ## 🔧 Architecture
 
+![스크린샷, 2020-11-19 22-15-25](https://user-images.githubusercontent.com/66121666/99671214-11bd5500-2ab5-11eb-98e0-1d8125d9cf28.png)
+![스크린샷, 2020-11-19 22-15-33](https://user-images.githubusercontent.com/66121666/99671219-13871880-2ab5-11eb-9531-384383f7f08d.png)
+
 ## 📌 Team : AppleJujube
 | Team|Role|
 | :----: | :----: |
