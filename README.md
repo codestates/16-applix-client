@@ -7,12 +7,18 @@
 # 📂 Stack
 ## Front
 ![](https://img.shields.io/badge/frontend-javascript-F7DF1E?style=for-the-badge&logo=javascript)<BR />
-![](https://img.shields.io/badge/frontend-react-61DAFB?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/frontend-react-61DAFB?style=for-the-badge&logo=react)<BR />
+![](https://img.shields.io/badge/frontend-HTML-E34F26?style=for-the-badge&logo=html5)<BR />
+![](https://img.shields.io/badge/frontend-CSS-1572B6?style=for-the-badge&logo=css3)<BR />
 
 ## Back
 ![](https://img.shields.io/badge/backend-nodejs-339933?style=for-the-badge&logo=node.js)<BR />
 ![](https://img.shields.io/badge/backend-express-black?style=for-the-badge)<BR />
+![](https://img.shields.io/badge/backend-sequelize-black?style=for-the-badge)<BR />
 ![](https://img.shields.io/badge/backend-MySql-4479A1?style=for-the-badge&logo=mysql)<BR />
+![](https://img.shields.io/badge/backend-JWT-black?style=for-the-badge&logo=jsonwebtokens)<BR />
+![](https://img.shields.io/badge/backend-AWS-232f3e?style=for-the-badge&logo=amazonaws)<BR />
+
 
 ## 🔧 Architecture
 
