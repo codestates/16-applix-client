@@ -14,7 +14,7 @@
 ## Back
 
 ![](https://img.shields.io/badge/backend-nodejs-339933?style=for-the-badge&logo=node.js)<BR />
-![](https://img.shields.io/badge/backend-express-black?style=for-the-badge)<BR />
+![](https://img.shields.io/badge/backend-express-black?style=for-the-badge&logo=express&logoColor=white)<BR />
 ![](https://img.shields.io/badge/backend-MySql-4479A1?style=for-the-badge&logo=mysql)<BR />
 
 ## 🔧 Architecture
