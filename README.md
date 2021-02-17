@@ -8,7 +8,7 @@
 
 ## Front
 
-![](https://img.shields.io/badge/frontend-javascript-F7DF1E?style=for-the-badge&logo=javascript)<BR />
+![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)<BR />
 ![](https://img.shields.io/badge/frontend-react-61DAFB?style=for-the-badge&logo=react)
 
 ## Back
