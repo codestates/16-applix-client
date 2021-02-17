@@ -8,15 +8,15 @@
 
 ## Front
 
-![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)<BR />
-![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)<br/>
+![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## Back
 
-![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)<BR />
-![](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)<BR />
-![](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<BR />
+![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔧 Architecture
 
